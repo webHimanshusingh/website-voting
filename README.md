@@ -3,7 +3,7 @@ This is my voting  system 25 may<br>
 Explanation of a Voting Booth Website :<br>
 
 LinkedIn- https://www.linkedin.com/in/website-himanshu-singh<br>
-GitHub- https://github.com/webHimanshusingh br>
+GitHub- https://github.com/webHimanshusingh 1<br>
 
 <h1></h1>
 A voting booth website is an online platform designed to facilitate electronic voting for elections. It ensures that the voting process is secure, confidential, and accessible to eligible voters. Here’s a breakdown of its key features <br>and functionality:<br>
@@ -44,4 +44,9 @@ The platform follows strict privacy policies to protect users’ personal inform
 
 Data is collected, used, and stored in compliance with relevant regulations.<br>
 
-By including the above content and explanations on your website, you can create a comprehensive and user-friendly voting booth platform. If you need further customization or additional sections, feel free to ask!
+By including the above content and explanations on your website, you can create a comprehensive and user-friendly voting booth platform. If you need further customization or additional sections, feel free to ask!<br>
+
+![Screenshot 2024-05-22 100356](https://github.com/webHimanshusingh/website-voting/assets/170223793/17a5bfc8-78d2-41c4-9982-7c12b16d42ad)
+![Screenshot 2024-05-22 100414](https://github.com/webHimanshusingh/website-voting/assets/170223793/178ea729-4f8b-47c9-a4cf-c3afbcc4029a)
+![Screenshot 2024-05-22 100439](https://github.com/webHimanshusingh/website-voting/assets/170223793/7ed17c90-7aaa-4ae7-917d-cbb00cb9abe6)
+
