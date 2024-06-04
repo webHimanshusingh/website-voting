@@ -46,8 +46,10 @@ The platform follows strict privacy policies to protect users’ personal inform
 Data is collected, used, and stored in compliance with relevant regulations.<br>
 
 By including the above content and explanations on your website, you can create a comprehensive and user-friendly voting booth platform. If you need further customization or additional sections, feel free to ask!<br>
-
+# Output - 1
 ![Screenshot 2024-05-22 100356](https://github.com/webHimanshusingh/website-voting/assets/170223793/17a5bfc8-78d2-41c4-9982-7c12b16d42ad)
+# Output - 2
 ![Screenshot 2024-05-22 100414](https://github.com/webHimanshusingh/website-voting/assets/170223793/178ea729-4f8b-47c9-a4cf-c3afbcc4029a)
+# Output - 3
 ![Screenshot 2024-05-22 100439](https://github.com/webHimanshusingh/website-voting/assets/170223793/7ed17c90-7aaa-4ae7-917d-cbb00cb9abe6)
 
